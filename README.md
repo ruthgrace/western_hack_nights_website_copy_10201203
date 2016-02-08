@@ -42,11 +42,11 @@ Resume Clinic & Mock Interviews
 
 ## Career Clinic
 
-Need advice on getting an internship, writing your resume, or acing a coding interview? Ruth is available at Hack Nights every Thursday to help out. Email her at rwong233@uwo.ca to book a mock interview. Western Tech Alumni is also currently running a 4 week Interview Prep Program. Join our Facebook group: https://www.facebook.com/groups/WesternInterviewPrep/
+Need advice on getting an internship, writing your resume, or acing a coding interview? Ruth is available at Hack Nights every Thursday to help out. Email her at rwong233@uwo.ca to book a mock interview. Western Tech Alumni is also currently running a 4 week Interview Prep Program. Join their Facebook group: https://www.facebook.com/groups/WesternInterviewPrep/
 
 ## Contact Us
 
-Find us on Facebook! https://www.facebook.com/groups/westernhacknights/
+Find us on [Facebook!](https://www.facebook.com/groups/westernhacknights/)
 
 ------
 
