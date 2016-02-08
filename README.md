@@ -27,13 +27,17 @@ Check out all our cool hardware! Hardware is available for lending every Thursda
 ## Upcoming Events
 
 February 25th: Electronic Arts (with conductive paint pens and LEDs)
+
 March 3rd: Install-a-thon to prepare for QHacks! (http://qhacks.io/)
+
 March 10th: Mario Game Workshop
 
 ## Past Events
 
 GitHub Q&A with Rob Rix and Matt Diephouse
+
 Google Cardboard Party
+
 Resume Clinic & Mock Interviews
 
 ## Career Clinic
